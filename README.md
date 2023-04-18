@@ -47,3 +47,11 @@ This is a web based application developed for health related website in india
 ### Menu -
 ![5_frt](https://user-images.githubusercontent.com/130152124/232885097-19b8c7f7-90d3-4c1f-8e47-e0c85c20e386.jpg)
 
+
+## Tech Stack
+
+- Azure (Hosting)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
