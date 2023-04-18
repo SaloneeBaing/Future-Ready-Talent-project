@@ -50,7 +50,7 @@ This is a web based application developed for health related website in india
 
 ## Tech Stack
 
-- Azure (Hosting)
+- [Azure (Hosting)] (https://azure.microsoft.com/en-in/get-started/azure-portal/)
 - HTML
 - CSS
 - Bootstrap
