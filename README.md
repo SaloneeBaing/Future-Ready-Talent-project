@@ -1,4 +1,4 @@
-# Glory Luxe
+# Glory Cocoberry
 
 
 
@@ -6,10 +6,11 @@
 This is a web based application developed for health related telugu based website in india
 
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Github and AICTE.
 
 
-** Project Link -**https://red-rock-00284d600.3.azurestaticapps.net/
+** Project Link - 
+** https://red-rock-00284d600.3.azurestaticapps.net/
 
 
 ## Features and Functionalities
